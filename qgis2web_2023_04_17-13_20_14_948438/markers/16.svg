@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.88 14.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #93d5f6;
+        stroke: #00a5c8;
+        stroke-width: 0.71px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-width: 0.57px;
+      }
+    </style>
+  </defs>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Легенда_тематических_карт" data-name="Легенда тематических карт">
+      <g id="Медицина">
+        <g>
+          <circle class="cls-1" cx="7.44" cy="7.44" r="7.09"/>
+          <rect class="cls-2" x="4.92" y="4.91" width="5.34" height="5.08"/>
+          <path id="pharmacy" class="cls-3" d="M5.07,3.26,3.49,4.84v6.33h7.9V4.84L9.81,3.26ZM6.75,5.37H8.13V6.75H9.51V8.13H8.13V9.51H6.75V8.13H5.37V6.75H6.75Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
